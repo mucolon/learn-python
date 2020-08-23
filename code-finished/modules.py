@@ -22,6 +22,6 @@ c = CamelCase()
 
 email = 'test#test.com'
 if validate_email(email):
-  print('Email is valid')
+    print('Email is valid')
 else:
-  print('Email is bad')
+    print('Email is bad')
