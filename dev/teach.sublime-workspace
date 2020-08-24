@@ -1,0 +1,1255 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"moto",
+				"motor_list\tlist ⟠"
+			],
+			[
+				"mot",
+				"motor_list\tlist ⟠"
+			],
+			[
+				"motor",
+				"motor_classes"
+			],
+			[
+				"len",
+				"len(motor_list\t★ pro ⟠"
+			],
+			[
+				"a",
+				"append(…)\tfunction ⟠"
+			],
+			[
+				"data",
+				"data_rows\t__class__ | int | str ⟠"
+			],
+			[
+				"csv",
+				"csvreader\t_reader ⟠"
+			],
+			[
+				"be",
+				"beta_inv\tint | ndarray | str ⟠"
+			],
+			[
+				"t",
+				"type\ttype ⟠"
+			],
+			[
+				"is",
+				"isinstance\tfunction ⟠"
+			],
+			[
+				"num",
+				"numpy as np\tmodule ⟠"
+			],
+			[
+				"angle0",
+				"angle_0_g"
+			],
+			[
+				"obj",
+				"<obj>, <ensure_ascii>)\tcall ⟠"
+			],
+			[
+				"en",
+				"ensure_ascii\tbool ⟠"
+			],
+			[
+				"distance",
+				"distance\tstatement"
+			],
+			[
+				"rpm",
+				"rpm2rads\tstatement"
+			],
+			[
+				"launch",
+				"launch_angle\tstatement"
+			],
+			[
+				"angl",
+				"angle_sep\tstatement"
+			],
+			[
+				"laun",
+				"launch_angle\tstatement"
+			],
+			[
+				"lau",
+				"launch_angle\tstatement"
+			],
+			[
+				"la",
+				"launch_angle\tstatement"
+			],
+			[
+				"div",
+				"div\tparam"
+			],
+			[
+				"div_",
+				"div_ratio\tstatement"
+			],
+			[
+				"min",
+				"min\tfunction"
+			],
+			[
+				"djd",
+				"djd_r\tstatement"
+			],
+			[
+				"vnq",
+				"vnq_r\tstatement"
+			],
+			[
+				"schd",
+				"schd_r\tstatement"
+			],
+			[
+				"hdv",
+				"hdv_r"
+			],
+			[
+				"vym",
+				"vym_r\tstatement"
+			],
+			[
+				"spyd",
+				"spyd_r\tstatement"
+			],
+			[
+				"sphd",
+				"sphd_r\tstatement"
+			],
+			[
+				"hd",
+				"hdv_e\tstatement"
+			],
+			[
+				"bonds",
+				"bonds\tstatement"
+			],
+			[
+				"vclt",
+				"vclt_r\tstatement"
+			],
+			[
+				"emb",
+				"emb_r\tstatement"
+			],
+			[
+				"hyg",
+				"hyg_r\tstatement"
+			],
+			[
+				"vcit",
+				"vcit_r\tstatement"
+			],
+			[
+				"cwb_",
+				"cwb_r\tstatement"
+			],
+			[
+				"emlc",
+				"emlc_r\tstatement"
+			],
+			[
+				"igib",
+				"igib_r\tstatement"
+			],
+			[
+				"hyd",
+				"hyd_e\tstatement"
+			],
+			[
+				"lqd",
+				"lqd_e\tstatement"
+			],
+			[
+				"su",
+				"sum\tfunction"
+			],
+			[
+				"reit",
+				"reit_ratio\tstatement"
+			],
+			[
+				"sec",
+				"sec2usec"
+			],
+			[
+				"end",
+				"end_switch\tstatement"
+			],
+			[
+				"during",
+				"during_smear"
+			],
+			[
+				"move",
+				"move2home"
+			],
+			[
+				"power_",
+				"power_on\tfunction"
+			],
+			[
+				"l",
+				"l"
+			],
+			[
+				"ex",
+				"except"
+			],
+			[
+				"dir",
+				"direction\tstatement"
+			],
+			[
+				"in",
+				"input\tfunction"
+			],
+			[
+				"ro",
+				"rotation"
+			],
+			[
+				"pull",
+				"pulley_off_duty\tstatement"
+			],
+			[
+				"home",
+				"home_switch"
+			],
+			[
+				"pulley",
+				"pulley_off_duty\tstatement"
+			],
+			[
+				"force",
+				"force_pwr"
+			],
+			[
+				"de",
+				"default_wait_time\tstatement"
+			],
+			[
+				"ang",
+				"angle\tstatement"
+			],
+			[
+				"angle",
+				"angle_change\tstatement"
+			],
+			[
+				"pulley_",
+				"pulley_off_duty\tstatement"
+			],
+			[
+				"def",
+				"default"
+			],
+			[
+				"dia",
+				"disable_pulse\tfunction"
+			],
+			[
+				"dis",
+				"disable_pulse\tfunction"
+			],
+			[
+				"ena",
+				"enable_time"
+			],
+			[
+				"ste",
+				"stepper_step\tstatement"
+			],
+			[
+				"max",
+				"max_speed\tstatement"
+			],
+			[
+				"micro",
+				"microstep\tparam"
+			],
+			[
+				"abs",
+				"abs_max_speed"
+			],
+			[
+				"micr",
+				"micro\tstatement"
+			],
+			[
+				"tra",
+				"travel_per_pulse\tstatement"
+			],
+			[
+				"pul",
+				"pulses\tstatement"
+			],
+			[
+				"stepper",
+				"stepper_circum\tstatement"
+			],
+			[
+				"filt",
+				"filtered_amount\tstatement"
+			],
+			[
+				"filter_",
+				"filtered_value\tstatement"
+			],
+			[
+				"filter",
+				"filtered_value"
+			],
+			[
+				"read",
+				"read_raw"
+			],
+			[
+				"time",
+				"time_diff\tstatement"
+			],
+			[
+				"rep",
+				"response\tstatement"
+			],
+			[
+				"re",
+				"response\tstatement"
+			],
+			[
+				"rotate_",
+				"rotate_neutral_duty\tstatement"
+			],
+			[
+				"linae",
+				"linear_blade_retract_duty\tstatement"
+			],
+			[
+				"linear",
+				"linear_blade_extend_duty\tstatement"
+			],
+			[
+				"s",
+				"self\tparam"
+			],
+			[
+				"label",
+				"label_remove\tstatement"
+			],
+			[
+				"Button",
+				"Button\tclass"
+			],
+			[
+				"grid_",
+				"grid_forget\tfunction"
+			],
+			[
+				"load",
+				"load_slide\tfunction"
+			],
+			[
+				"show",
+				"showinfo\tfunction"
+			],
+			[
+				"main_",
+				"main_fun\tfunction"
+			],
+			[
+				"quit",
+				"quit_fun\tfunction"
+			],
+			[
+				"main",
+				"main_f"
+			],
+			[
+				"top",
+				"top"
+			],
+			[
+				"column",
+				"columnspan"
+			],
+			[
+				"frame",
+				"frame1\tstatement"
+			],
+			[
+				"windo",
+				"window_name\tparam"
+			],
+			[
+				"colu",
+				"columnspan"
+			],
+			[
+				"eject",
+				"eject_duty\tstatement"
+			],
+			[
+				"ej",
+				"eject"
+			],
+			[
+				"steper",
+				"stepper_circum\tstatement"
+			],
+			[
+				"out",
+				"output"
+			],
+			[
+				"update",
+				"update_duty"
+			],
+			[
+				"up",
+				"update_duty"
+			],
+			[
+				"lin",
+				"linear_pin\tstatement"
+			],
+			[
+				"slide",
+				"slide_pins\tstatement"
+			],
+			[
+				"con",
+				"continue\tkeyword"
+			],
+			[
+				"set",
+				"setup"
+			],
+			[
+				"analog_in",
+				"Analog_In\tclass"
+			],
+			[
+				"ti",
+				"time_sleep\tstatement"
+			],
+			[
+				"freqen",
+				"frequency"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 178,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "variables.py",
+			"settings":
+			{
+				"buffer_size": 643,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "strings.py",
+			"settings":
+			{
+				"buffer_size": 997,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lists.py",
+			"settings":
+			{
+				"buffer_size": 631,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "tuples_sets.py",
+			"settings":
+			{
+				"buffer_size": 801,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "dictionaries.py",
+			"settings":
+			{
+				"buffer_size": 765,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "functions.py",
+			"settings":
+			{
+				"buffer_size": 542,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "conditionals.py",
+			"settings":
+			{
+				"buffer_size": 1415,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "loops.py",
+			"settings":
+			{
+				"buffer_size": 697,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "modules.py",
+			"settings":
+			{
+				"buffer_size": 677,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "classes.py",
+			"settings":
+			{
+				"buffer_size": 1030,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"settings",
+				"Preferences: Settings"
+			],
+			[
+				"user",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"theme",
+				"Material Theme: Info"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"package contro",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"material",
+				"Material Theme: Info"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 136.0,
+		"history":
+		[
+			"version",
+			"python",
+			"pip install flake8",
+			"2",
+			"ls",
+			"exit()",
+			"10/4",
+			"2.25/12",
+			"11/12",
+			"3*3.28084/.3",
+			"3",
+			"-0.01*-0.8+.05",
+			"-0.01*-0.8-.05",
+			"-0.01*-1.2-.05",
+			"4",
+			"27*3.14/180",
+			"print(a)",
+			"a=1/3.208084",
+			"print(a)",
+			"a=1*2",
+			"python",
+			"pip install alpha_vantage",
+			"pip install slycot",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/marcoucolon/Documents/GitHub/learn-python",
+		"/Users/marcoucolon/Documents/GitHub/learn-python/code-finished"
+	],
+	"file_history":
+	[
+		"/Users/marcoucolon/Library/Application Support/abnerworks.Typora/themes/github.css",
+		"/Users/marcoucolon/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/Volumes/system-boot/network-config",
+		"/Users/marcoucolon/Downloads/MarlinConfig-2.0.x.6B/Configuration_adv.h",
+		"/Users/marcoucolon/Downloads/MarlinConfig-2.0.x.6B/Configuration.h",
+		"/Users/marcoucolon/Documents/GitHub/winston/tools/motor_specs.py",
+		"/Users/marcoucolon/Dropbox/3D Printing & CADs/E3 Micro Swiss DD BLtouch/README.txt",
+		"/Users/marcoucolon/Downloads/error.txt",
+		"/Users/marcoucolon/Dropbox/3D Printing & CADs/Ender 3 V2 screen stand/README.txt",
+		"/Users/marcoucolon/Downloads/Ender_3_Vent_Ring/README.txt",
+		"/Volumes/boot/octopi-wpa-supplicant.txt",
+		"/Volumes/boot/octopi.txt",
+		"/Volumes/boot/fixup_cd.dat",
+		"/Volumes/boot/config.txt",
+		"/Volumes/NO NAME/EEPROM.DAT",
+		"/Users/marcoucolon/Downloads/build.log.txt",
+		"/Users/marcoucolon/Documents/Investments/Mom/Dividend_Income/Portfolio-Allocations.csv",
+		"/Users/marcoucolon/Documents/Investments/Mom/allocate.py",
+		"/Users/marcoucolon/Documents/GitHub/motobit-projects/README.md",
+		"/Users/marcoucolon/Documents/GitHub/blood-smear/smear.py",
+		"/Users/marcoucolon/Dropbox/YouTube Scripts/Flashlight revB/Video 1.md",
+		"/Users/marcoucolon/Downloads/emoji.py",
+		"/Users/marcoucolon/Documents/Icons/github.svg",
+		"/Users/marcoucolon/Library/Containers/com.apptorium.SideNotes/Data/Library/Application Support/com.apptorium.SideNotes/data.json",
+		"/Users/marcoucolon/Documents/GitHub/mucolon.github.io/index.html",
+		"/Users/marcoucolon/Dropbox/Engineering Projects/Flashlight/Media/circuit.svg",
+		"/Users/marcoucolon/Documents/Investments/Mom/Dividend_Income.numbers",
+		"/Users/marcoucolon/Documents/GitHub/opt-portfolio/test/test.py",
+		"/Users/marcoucolon/Documents/GitHub/Team5810XbotsRobotics2020/MathCode/example.py",
+		"/Users/marcoucolon/Documents/GitHub/Team5810XbotsRobotics2020/MathCode/Ball_Trajectory.py",
+		"/Users/marcoucolon/Documents/GitHub/Team5810XbotsRobotics2020/MathCode/Ball_Trajectory_simple.py",
+		"/Users/marcoucolon/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/Users/marcoucolon/Library/Application Support/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/Users/marcoucolon/Library/Application Support/Sublime Text 3/Packages/User/KiteSublime.sublime-settings",
+		"/Users/marcoucolon/Library/Application Support/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/Users/marcoucolon/Library/Application Support/Sublime Text 3/Packages/KiteSublime/KiteSublime.sublime-settings",
+		"/Users/marcoucolon/Library/Application Support/Sublime Text 3/Packages/KiteSublime/Default.sublime-keymap",
+		"/var/folders/lg/dgc_dn2n19j1wf5tqzgmqlxr0000gn/T/kite_tutorial.py",
+		"/Users/marcoucolon/Library/Application Support/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/Users/marcoucolon/Library/Application Support/Sublime Text 3/Packages/User/SublimeHighlight.sublime-settings",
+		"/Users/marcoucolon/Library/Application Support/Sublime Text 3/Packages/Highlight/SublimeHighlight.sublime-settings",
+		"/Users/marcoucolon/Library/Application Support/Sublime Text 3/Packages/Highlight/README.md",
+		"/Users/marcoucolon/Library/Application Support/Sublime Text 3/Packages/User/SublimeREPL.sublime-settings",
+		"/Users/marcoucolon/Documents/GitHub/Team5810XbotsRobotics2020/MathCode/Ball-Trajectory.py",
+		"/Users/marcoucolon/Documents/GitHub/Team5810XbotsRobotics2020/SourceCodeV1/src/main/java/frc/robot/Subsystems/DriveTrain.java",
+		"/Users/marcoucolon/Documents/GitHub/blood-smear/lib/ui.py",
+		"/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/wpilib/timedrobot.py",
+		"/Users/marcoucolon/Documents/GitHub/X-Bots-2019-2020/5810CodeVersion1_1/src/python/Main.py",
+		"/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/wpilib/interruptablesensorbase.py",
+		"/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/wpilib/iterativerobot.py",
+		"/Users/marcoucolon/Documents/GitHub/opt-portfolio/test/portfolio.py",
+		"/Users/marcoucolon/Documents/GitHub/opt-portfolio/README.md",
+		"/Users/marcoucolon/Documents/Python/portfolio.py",
+		"/Users/marcoucolon/Documents/Python/practice.py",
+		"/Users/marcoucolon/Documents/GitHub/edumip/archive/edumip_balance/edumip_balance.c",
+		"/Users/marcoucolon/Documents/GitHub/edumip/balance/Makefile",
+		"/Users/marcoucolon/Documents/GitHub/edumip/archive/edumip_balance/edumip_balance",
+		"/Users/marcoucolon/Documents/GitHub/edumip/README.md",
+		"/Users/marcoucolon/Library/Mobile Documents/com~apple~CloudDocs/UCSD/4th Year/MAE 145/HW5/main0.py",
+		"/Users/marcoucolon/Documents/GitHub/blood-smear/lib/stepper.py",
+		"/Users/marcoucolon/Documents/GitHub/blood-smear/lib/servo.py",
+		"/Users/marcoucolon/Documents/GitHub/blood-smear/test/test_servo_duty.py",
+		"/Users/marcoucolon/Documents/GitHub/blood-smear/test/test_smear.py",
+		"/Users/marcoucolon/Documents/GitHub/blood-smear/Smear.desktop",
+		"/Users/marcoucolon/Documents/GitHub/blood-smear/smear1.py",
+		"/Users/marcoucolon/Documents/GitHub/blood-smear/test/test_analog.py",
+		"/Users/marcoucolon/Documents/GitHub/blood-smear/test/test_stepper.py",
+		"/Users/marcoucolon/Documents/GitHub/blood-smear/test/test_gui.py",
+		"/Users/marcoucolon/Documents/GitHub/blood-smear/lib/config.py",
+		"/Users/marcoucolon/Documents/GitHub/blood-smear/test/slide_speed_data.txt",
+		"/Users/marcoucolon/Documents/GitHub/blood-smear/test/test_servo_angle.py",
+		"/Users/marcoucolon/Documents/GitHub/blood-smear/test/test_read2.py",
+		"/Users/marcoucolon/Documents/GitHub/blood-smear/test/test_output.py",
+		"/Users/marcoucolon/Documents/GitHub/blood-smear/test/test_interrupts.py",
+		"/Users/marcoucolon/Documents/GitHub/blood-smear/test/test_inductive.py",
+		"/Users/marcoucolon/Documents/GitHub/blood-smear/test/test_stepper_raw.py",
+		"/Users/marcoucolon/Documents/GitHub/blood-smear/lib/analog_in.py",
+		"/Users/marcoucolon/Documents/GitHub/blood-smear/lib/digital_io.py",
+		"/Users/marcoucolon/Documents/GitHub/blood-smear/test/force_sensor_data.txt",
+		"/Users/marcoucolon/Documents/GitHub/blood-smear/test/README.md",
+		"/Users/marcoucolon/Documents/GitHub/blood-smear/README.md",
+		"/Users/marcoucolon/Documents/GitHub/blood-smear/lib/__init__.py",
+		"/Users/marcoucolon/Documents/GitHub/blood-smear/lib/README.md",
+		"/Users/marcoucolon/Documents/GitHub/blood-smear/ui.py",
+		"/Users/marcoucolon/Documents/GitHub/blood-smear/stepper.py",
+		"/Users/marcoucolon/Documents/GitHub/blood-smear/servo.py",
+		"/Users/marcoucolon/Documents/GitHub/blood-smear/digital_io.py",
+		"/Users/marcoucolon/Documents/GitHub/blood-smear/analog_in.py",
+		"/Users/marcoucolon/Documents/GitHub/blood-smear/config.py",
+		"/Users/marcoucolon/Documents/GitHub/blood-smear/Libraries:Configuration Files/README.md",
+		"/Users/marcoucolon/Documents/GitHub/blood-smear/final/smear.py",
+		"/Users/marcoucolon/Documents/GitHub/blood-smear/test/gui.py",
+		"/Users/marcoucolon/Documents/GitHub/blood-smear/test/analog_in.py",
+		"/Users/marcoucolon/Documents/GitHub/blood-smear/test/digital_io.py",
+		"/Users/marcoucolon/Documents/GitHub/blood-smear/test/stepper.py",
+		"/Users/marcoucolon/Documents/GitHub/blood-smear/test/servo.py",
+		"/Users/marcoucolon/Documents/GitHub/blood-smear/test/smear.py",
+		"/Users/marcoucolon/Documents/GitHub/blood-smear/test/config.py",
+		"/Users/marcoucolon/Documents/GitHub/blood-smear/test/ui.py",
+		"/Users/marcoucolon/Documents/GitHub/blood-smear/Media/README.md",
+		"/Users/marcoucolon/Documents/GitHub/blood-smear/test/test_inputs.py",
+		"/Users/marcoucolon/Library/Application Support/Sublime Text 3/Packages/Anaconda/README.md",
+		"/Users/marcoucolon/Documents/GitHub/blood-smear/test/test_slide.py",
+		"/Users/marcoucolon/Documents/GitHub/blood-smear/test/test_servo1.py",
+		"/Users/marcoucolon/Documents/GitHub/blood-smear/test/test_inputs2.py",
+		"/Users/marcoucolon/Documents/GitHub/blood-smear/test/test_servo.py",
+		"/Users/marcoucolon/Documents/GitHub/blood-smear/test/test_inputs1.py"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 136.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"folders":
+	[
+		{
+			"path": "/Users/marcoucolon/Documents/GitHub/learn-python"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 178,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 6,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "variables.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 643,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								486,
+								486
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "strings.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 997,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								520,
+								520
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "lists.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 631,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								176,
+								230
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "tuples_sets.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 801,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "dictionaries.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 765,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "functions.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 542,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "conditionals.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1415,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "loops.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 697,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "modules.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 677,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "classes.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1030,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 44.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.156870039683,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 116.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 116.0
+	},
+	"output.exec":
+	{
+		"height": 301.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 231.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 1
+	}
+}
